@@ -294,20 +294,9 @@ body{
   text-decoration: line-through;
   font-weight: lighter;
   font-size: 1rem;
+  color: var(--primary);
 }
 
-
-
-
-
-
-
-
-
-
-
-
-/* Query media */
 
 /* Modal Box */
 /* Item Detail */
