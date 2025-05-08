@@ -244,6 +244,7 @@ body{
   display: flex;
   justify-content: center;
   gap: 0.5rem;
+  background-color: var(--primary);
 }
 
 .products .product-icons a {
